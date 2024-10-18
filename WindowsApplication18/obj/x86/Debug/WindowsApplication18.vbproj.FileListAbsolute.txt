@@ -1,0 +1,9 @@
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.exe
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.pdb
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\bin\Debug\WindowsApplication18.xml
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.Form1.resources
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.Resources.resources
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.vbproj.GenerateResource.Cache
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.exe
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.xml
+C:\Users\J1\Documents\Visual Studio 2010\Projects\WindowsApplication18\WindowsApplication18\obj\x86\Debug\WindowsApplication18.pdb
